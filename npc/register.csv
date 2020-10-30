@@ -1,0 +1,11 @@
+ownerID,ownerFname,ownerLname,Password,ownerAddress,owneDOB,petType,petGender,petColour,petAge
+1,John,Jones,123,1 road avenue,01/01/1990,Dog,M,Black,1
+2,Jill,Mason,123,2 road avenue,02/01/1991,Dog,M,White,1
+3,Bill,Smith,123,3 road avenue,03/01/1992,Cat,M,Grey,3
+4,Lilly,Moore,123,4 road avenue,03/01/1993,Cat,M,Black,5
+5,James,Adams,123,5 road avenue,04/01/1994,Rabbit,M,Brown,2
+6,Dave,Greogory,123,6 road avenue,05/01/1995,Dog,M,White,10
+7,John,Green,123,7 road avenue,06/01/1996,Dog,F,Black,6
+8,Jimmy,Smyth,123,8 road avenue,06/01/1997,Cat,F,Brown,8
+9,Timmy,Chester,123,9 road avenue,07/01/1998,Dog,F,Brown,7
+10,Limmy,Ferguson,123,10 road avenue,08/01/1999,Cat,F,Black,2
